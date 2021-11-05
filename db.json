@@ -1,0 +1,21 @@
+{
+    "furniture": [
+        {
+            "id": "sfdgtr21ing",
+            "title": "naujas mažai naudotas stalas",
+            "type": "daužtas, bet gali staltiesę uždėt, bus kaip naujas",
+            "price": "99,99",
+            "location": {
+                "country": "Litwa",
+                "city": "Feelnius",
+                "street": "verkių"
+            },
+            "owner": {
+                "fullname": "Stalčius Stalauskas",
+                "mobile": "825253624",
+                "address": "verkių g. 1",
+                "email": "stalcius@stalai.st"
+            }
+        }
+    ]
+}
